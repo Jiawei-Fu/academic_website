@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: markdown
 
+Active: Flase
+
 # This file represents a page section.
 headless: true
 

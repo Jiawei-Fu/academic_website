@@ -17,6 +17,7 @@ interests:
 - Formal Theory
 - Political Economy
 - Comparative Politics
+- Medicine and Health
 
 last_name: Fu
 organizations:
@@ -38,10 +39,8 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Jiawei-Fu
+
 superuser: true
 title: Jiawei Fu 
 ---
