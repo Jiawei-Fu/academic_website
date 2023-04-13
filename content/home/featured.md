@@ -3,13 +3,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
 
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: research 1
 subtitle: ''
 
 content:
