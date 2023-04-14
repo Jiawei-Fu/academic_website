@@ -8,35 +8,37 @@ education:
   - course: MA in Political Science
     institution: Duke University
     year: 2016-2018
+  - course: LLB 
+    institution: ECUPL
+    year: 2012-2016
   
 email: "jf3739@nyu.edu"
 first_name: Jiawei
 highlight_name: true
 interests:
-- Statistical Methods
+- Methodology
 - Formal Theory
 - Political Economy
-- Comparative Politics
 - Medicine and Health
 
 last_name: Fu
 organizations:
 - name: New York University
   url: 
-role: Phd in Politics
+role: Phd Candidate in Politics
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  icon: twitter
+#  icon_pack: fab
+#  label: Follow me on Twitter
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Jiawei-Fu
@@ -45,6 +47,10 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Jiawei Fu is Phd student in Politics.
+Hi~ I am a Phd candidate in Politics at NYU. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In Methodology, I study causal mechanism and heterogeneity. 
+
+
+
+Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
