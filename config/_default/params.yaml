@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_night: earth
+  font: Minimal
   font_size: M
 
 # SEO
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jiawei Fu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
