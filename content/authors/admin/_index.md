@@ -47,10 +47,11 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Hi~ I am a Phd candidate in Politics at NYU. 
+Hi~ I am a Phd candidate in Politics at NYU. My research interest
 
 In Methodology, I study causal mechanism and heterogeneity. 
 
 
+You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
-Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
