@@ -9,7 +9,8 @@ title: Courses
 ## Ph.D Level
 
 Intro to Quantitative Political Analysis III
-Game Theory II
+Game Theory II {{% staticref "pdf/monotone.pdf" "newtab" %}}Lecture Note 1{{% /staticref %}}
+
 
 ## Undergraduate
 
