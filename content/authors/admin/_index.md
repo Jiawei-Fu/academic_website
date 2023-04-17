@@ -2,7 +2,7 @@
 bio: add later
 education:
   courses:
-  - course: PhD in Political Science
+  - course: PhD in Politics
     institution: New York University
     year: 2018-2024
   - course: MA in Political Science
@@ -47,10 +47,9 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Hi~ I am a Phd candidate in Politics at NYU. My research interest
+Hi~ I am a Phd candidate in Politics at NYU. I am interested in a variety of topics in social science. In Methodology, I primarily study causal mechanism and moderation. I am working on how to use a simple identification strategy to simultaneously estimate treatment and mediated effects. 
 
-In Methodology, I study causal mechanism and heterogeneity. 
-
+In formal theory, I am particularly interested in deliberation and debate. Substantively, I study bureaucracy and inequality, with a special focus on China.
 
 You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
