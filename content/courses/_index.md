@@ -6,6 +6,8 @@ layout: book
 title: Courses
 ---
 
+I am the TA for
+
 ## Ph.D Level
 
 Game Theory II 
