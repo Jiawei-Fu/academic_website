@@ -51,7 +51,7 @@ Jiawei Fu and Xiaojun Li "Fundamental Inconsistency Problem of Multi-dimensional
 
 Jiawei Fu, Catherine Hafer, and Dimitri Landa "A Formal Theory of Debate: Full Revelation"
 
-**China**
+**Political Economy in China**
 
 Jiawei Fu, Zenren Li, and Haibing Yan "A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China" 
 

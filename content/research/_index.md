@@ -13,7 +13,7 @@ Jiawei Fu and Tara Slough "Heterogeneous Treatment Effects and Causal Mechanisms
 Jiawei Fu and Xiaojun Li "Fundamental Inconsistency Problem of Multi-dimensional Experiment"
 
 
-**China**
+**PE in China**
 
 Jiawei Fu, Zenren Li, and Haibing Yan "A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China" [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
