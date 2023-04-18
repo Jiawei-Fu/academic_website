@@ -6,7 +6,7 @@ layout: book
 title: Courses
 ---
 
-I am the TA for
+I am the TA for the following courses at NYU.
 
 ## Ph.D Level
 
