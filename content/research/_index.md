@@ -8,7 +8,7 @@ title: Research
 
 ## Methodology
 
-Jiawei Fu and Tara Slough. **"Heterogeneous Treatment Effects and Causal Mechanisms"**{{% staticref "pdf/Paper_v1.pdf" "newtab" %}}[Draft]{{% /staticref %}}
+Jiawei Fu and Tara Slough. **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
 Jiawei Fu and Xiaojun Li. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"**
 

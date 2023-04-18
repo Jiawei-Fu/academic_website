@@ -17,7 +17,7 @@ main:
     url: 'courses/'
     weight: 30 
   - name: CV
-    url: 
+    url: "pdf/Curriculum_Vitae.pdf"
   #- name: Contact
   #  url: '#contact'
   #  weight: 40

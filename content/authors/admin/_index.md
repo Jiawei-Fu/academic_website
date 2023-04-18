@@ -53,4 +53,5 @@ As you expected, I am both a Theoretical Implications of Empirical Model (TIEM) 
 
 You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
 
