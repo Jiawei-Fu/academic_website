@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jiawei Fu. This work is licensed under {license}'
+    notice: '© {year} Jiawei Fu. This work is licensed under {license}. Website icon: <a href="https://www.flaticon.com/free-icons/pokemon" title="pokemon icons">Pokemon icons created by Roundicons Freebies - Flaticon</a>'
     license:
       enable: true
       allow_derivatives: false
