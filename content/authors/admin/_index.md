@@ -1,5 +1,5 @@
 ---
-bio: add later
+bio: 
 education:
   courses:
   - course: PhD in Politics
@@ -24,7 +24,7 @@ interests:
 last_name: Fu
 organizations:
 - name: New York University
-  url: 
+  url: https://as.nyu.edu/departments/politics.html
 role: Phd Candidate in Politics
 social:
 - icon: envelope
