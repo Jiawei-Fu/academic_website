@@ -19,7 +19,7 @@ interests:
 - Methodology
 - Formal Theory
 - Political Economy
-- Medicine and Health
+- Health
 
 last_name: Fu
 organizations:
