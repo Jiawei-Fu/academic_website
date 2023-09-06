@@ -15,7 +15,7 @@ Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). **"Fundame
 
 ## PE in China
 
-Jiawei Fu, [Zenren Li](https://www.zerenli.org/), and Haibing Yan. **"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
+Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. **"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). **"Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190)
 
