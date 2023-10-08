@@ -12,7 +12,7 @@ Jiawei Fu. ``A New Identification Strategy for Mediation Analysis Relying on Het
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
-Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"**
+Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"**
 
 
 ## PE in China
