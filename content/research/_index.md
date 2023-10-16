@@ -8,7 +8,7 @@ title: Research
 
 ## Methodology
 
-Jiawei Fu. ``A New Identification Strategy for Mediation Analysis Relying on Heterogeneous Effects''
+Jiawei Fu. **"A New Identification Strategy for Mediation Analysis Relying on Heterogeneous Effects"** (JMP)
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
