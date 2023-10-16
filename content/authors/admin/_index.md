@@ -47,7 +47,7 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics in social science. In Methodology, I primarily study causal mechanisms and moderation. I am working on a novel and straightforward identification strategy for causal mediation analysis. The new method can convert a challenging mediation analysis problem into a simple linear regression problem. This allows researchers simultaneously estimate treatment and mediated effects. 
+Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics in social science. In \textit{Methodology}, I primarily study causal mechanisms and moderation. I am working on a novel and straightforward identification strategy for causal mediation analysis. The new method can convert a challenging mediation analysis problem into a simple linear regression problem. This allows researchers simultaneously estimate treatment and mediated effects. 
 
 In formal theory, I am particularly interested in information and communication. The current project is on full revelation in the deliberation and debate. As you expected, I am both a Theoretical Implications of Empirical Model (TIEM) guy and an Empirical Implication of Theoretical Model (EITM) guy.
 
