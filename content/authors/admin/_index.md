@@ -47,7 +47,7 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics within the social sciences. (This year, I am seeking a post-doc position!)
+Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics within the social sciences. This year, I am seeking a post-doc position!
 
 In Methodology, I primarily study causal mechanisms and heterogeneous treatment effects. I am currently developing a novel and straightforward identification strategy for causal mediation analysis. The new method can transforms a challenging mediation analysis problem into a simple linear regression problem; it simplifies a complex causality problem into manageable data problem. My method allows researchers simultaneously estimate treatment and mediated effects. 
 
