@@ -47,13 +47,14 @@ superuser: true
 title: Jiawei Fu 
 ---
 
-Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics in social science. In \textit{Methodology}, I primarily study causal mechanisms and moderation. I am working on a novel and straightforward identification strategy for causal mediation analysis. The new method can convert a challenging mediation analysis problem into a simple linear regression problem. This allows researchers simultaneously estimate treatment and mediated effects. 
+Hi~ I am a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics within the social sciences. (This year, I am seeking a post-doc position!)
 
-In formal theory, I am particularly interested in information and communication. The current project is on full revelation in the deliberation and debate. As you expected, I am both a Theoretical Implications of Empirical Model (TIEM) guy and an Empirical Implication of Theoretical Model (EITM) guy.
+In Methodology, I primarily study causal mechanisms and heterogeneous treatment effects. I am currently developing a novel and straightforward identification strategy for causal mediation analysis. The new method can transforms a challenging mediation analysis problem into a simple linear regression problem; it simplifies a complex causality problem into manageable data problem. My method allows researchers simultaneously estimate treatment and mediated effects. 
 
-Substantively, I study bureaucracy and inequality, with a special focus on China. 
+In Formal Theory, my specific focus centers on information and differential games. At present, my project delves into the full revelation problem of deliberation and debate. As you might anticipate, I fall into both categories: a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
-This year, I am looking for a post-doc position!
+In Political Economy, I study bureaucracy and inequality, with a particular focus on China. My most recent work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes.
+
 
 You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
