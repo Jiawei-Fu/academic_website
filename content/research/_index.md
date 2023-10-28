@@ -8,11 +8,11 @@ title: Research
 
 ## Methodology
 
-Jiawei Fu. **"A New Identification Strategy for Mediation Analysis Relying on Heterogeneous Effects"** (JMP)
+Jiawei Fu. **"A New Identification Strategy for Mediation Analysis Relying on Heterogeneous Effects"** (JMP) [Poster]{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
-Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"**
+Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** [Poster]{{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
 
 ## PE in China
