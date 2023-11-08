@@ -12,7 +12,7 @@ Jiawei Fu. **"Extract Mechanisms from Heterogeneous Effects: A New Identificatio
 {{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab" >}}[draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** 
-{{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[draft]{{< /staticref >}}
+{{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/hte_appendix.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** 
 {{< staticref "pdf/poster_salience.pdf" "newtab" >}}[poster]{{< /staticref >}}
