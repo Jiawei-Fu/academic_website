@@ -14,6 +14,7 @@ Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment 
 
 Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** {{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Poster]{{< /staticref >}}
 
+[Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. **Design-Based Inference for Group Interaction Experiments** (In progress)
 
 ## PE in China
 
