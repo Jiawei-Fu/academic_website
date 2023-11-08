@@ -8,16 +8,16 @@ title: Research
 
 ## Methodology
 
-Jiawei Fu. **"A New Identification Strategy for Mediation Analysis Relying on Heterogeneous Effects"** (JMP) {{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}}
+Jiawei Fu. **"Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis"** (JMP) {{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}}
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
-Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"**{{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Poster]{{< /staticref >}}
+Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** {{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Poster]{{< /staticref >}}
 
 
 ## PE in China
 
-Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. **"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
+Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. **"How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). **"Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190)
 
