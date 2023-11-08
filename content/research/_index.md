@@ -9,7 +9,7 @@ title: Research
 ## Methodology
 
 Jiawei Fu. **"Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis"** 
-{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab" >}}[draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab" >}}[draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** 
 {{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/hte_appendix.pdf" "newtab" >}}[appendix]{{< /staticref >}}
@@ -34,7 +34,7 @@ Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAA
 
 ## Health
 
-[Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. **"Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study"**
+[Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. **"Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study"**{{< staticref "pdf/bmr_af.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 
 
