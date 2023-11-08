@@ -9,7 +9,7 @@ title: Research
 ## **Methodology**
 
 Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis."
-{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab" >}}[draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab">}}[draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."
 {{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/hte_appendix.pdf" "newtab" >}}[appendix]{{< /staticref >}}
@@ -30,7 +30,7 @@ Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Politic
 
 ## **Formal Theory**
 
-Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation" (In progress)
+Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
 
 ## **Health**
 
