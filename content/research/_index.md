@@ -8,19 +8,25 @@ title: Research
 
 ## Methodology
 
-Jiawei Fu. **"Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis"** (JMP) {{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}}
+Jiawei Fu. **"Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis"** (JMP) 
+{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[Poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab" >}}[Draft]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
-Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** {{< staticref "pdf/Paper_v1.pdf" "newtab" >}}[Draft]{{< /staticref >}}
+Jiawei Fu and [Tara Slough](http://taraslough.com/). **"Heterogeneous Treatment Effects and Causal Mechanisms"** 
+{{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[Draft]{{< /staticref >}}
 
-Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** {{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Poster]{{< /staticref >}}
+Jiawei Fu. **"Fundamental Inconsistency Problem of Multi-dimensional Experiment"** 
+{{< staticref "pdf/poster_salience.pdf" "newtab" >}}[Poster]{{< /staticref >}}
 
 [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. **Design-Based Inference for Group Interaction Experiments** (In progress)
 
 ## PE in China
 
-Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. **"How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
+Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. **"How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China"**
+[[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
-Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). **"Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China"** [[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190)
+Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). **"Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China"**
+
+[[Pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190)
 
 
 ## Formal Theory
