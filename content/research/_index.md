@@ -34,7 +34,7 @@ Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAA
 
 ## Health
 
-[Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. **"Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study"**{{< staticref "pdf/bmr_af.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+[Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. **"Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study"** {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 
 
