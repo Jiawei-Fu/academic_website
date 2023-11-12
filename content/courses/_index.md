@@ -31,3 +31,5 @@ I am the Teaching Assistant for the following courses at NYU.
 - East Asian Politics: China & Japan
 
 - Master’s Thesis Seminar
+
+- Games, Strategy, and Politics
