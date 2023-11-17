@@ -1,9 +1,9 @@
 ---
-header:
-  caption: ""
-  image: ""
+title: "Courses"
 layout: book
-title: Courses
+header:
+  caption: ''
+  image: ''
 ---
 
 I am the Teaching Assistant for the following courses at NYU.
@@ -14,9 +14,9 @@ I am the Teaching Assistant for the following courses at NYU.
   
 - Game Theory II 
 
- Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
+  - Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
 
- Recitation Note 2: {{< staticref "pdf/monotone.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
+  - Recitation Note 2: {{< staticref "pdf/monotone.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
 
  
 
