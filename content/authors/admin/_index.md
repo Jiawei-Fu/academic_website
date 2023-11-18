@@ -44,7 +44,7 @@ Hi~ I am a Ph.D. candidate in Politics at NYU. This year, I am seeking a post-do
 
 In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis, which can transform a challenging mediation analysis problem into a simple linear regression problem without compromising the non-parametric nature. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
-In Formal Theory, my research centers on information and dynamic games. Currently, my project explores the full revelation problem of deliberation and debate. As you might anticipate, I align with two schools of thought: a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
+In Formal Theory, my research centers on information and dynamic games. Currently, my project explores the full revelation problem of deliberation and debate. As you might anticipate, I align with two "sects": a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
 In Political Economy, I study bureaucracy and inequality, with a particular focus on China. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
