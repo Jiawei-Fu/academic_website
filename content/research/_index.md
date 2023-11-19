@@ -19,7 +19,12 @@ header:
 
 4. [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. "Design-Based Inference for Group Interaction Experiments." (In progress)
 
-## **Political Economy**
+
+## **Formal Theory**
+
+1. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
+
+## **Political Economy and Health**
 
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China."
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
@@ -27,14 +32,7 @@ header:
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China."
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190)
 
-
-## **Formal Theory**
-
-1. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
-
-## **Health**
-
-1. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[draft]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 
 
