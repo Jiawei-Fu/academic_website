@@ -11,6 +11,8 @@ I am the Teaching Assistant for the following courses at NYU.
 ## Ph.D Level
 
 - Introduction to Quantitative Political Analysis III
+
+  - Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
   
 - Game Theory II 
 
@@ -25,6 +27,8 @@ I am the Teaching Assistant for the following courses at NYU.
 - Introduction to Game Theory
 
 - Introduction to Research Methods for Politics
+
+  - Covering: Programming with R, Causal Inference
 
 ## Master Level
 
