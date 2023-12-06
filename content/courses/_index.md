@@ -6,7 +6,7 @@ header:
   image: ''
 ---
 
-I am the Teaching Assistant for the following courses at NYU.
+As a Teaching Assistant at New York University, I teach recitations and lead laboratory sessions for the following courses:
 
 ## Ph.D Level
 
