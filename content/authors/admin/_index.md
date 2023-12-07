@@ -46,7 +46,7 @@ In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatme
 
 In Formal Theory, my research centers on information and dynamic games. Currently, my project explores the full revelation problem of deliberation and debate. As you might anticipate, I align with two "sects": a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
-My substantive research spans various topics, including epidemiology, mental health, and political economy. In particular, I study bureaucracy and inequality, with a particular focus on China. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
+My substantive research spans various topics, including epidemiology, global health, and political economy. In particular, I study bureaucracy and inequality, with a particular focus on China. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
 My guiding motto is “Learn something about everything and everything about something!” 
 
