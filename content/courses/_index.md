@@ -19,6 +19,8 @@ As a Teaching Assistant at New York University, I teach recitations and lead lab
   - Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
 
   - Recitation Note 2: {{< staticref "pdf/monotone.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
+  
+  - My own syllabus on information and communication: {{< staticref "pdf/syllabus_inf.pdf" "newtab" >}} syllabus {{< /staticref >}}
 
  
 
