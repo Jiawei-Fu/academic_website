@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am a Ph.D. candidate in Politics at New York University. This year, I am seeking a post-doc position!
+Hi~ I am a Ph.D. candidate in Politics at New York University. 
 
 In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis, which can transform a challenging mediation analysis problem into a simple linear regression problem without compromising the non-parametric nature. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
