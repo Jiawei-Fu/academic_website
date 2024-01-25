@@ -48,8 +48,6 @@ In Formal Theory, my research centers on information and dynamic games. Currentl
 
 My substantive research spans various topics, including epidemiology, global health, and political economy. In particular, I study bureaucracy and inequality, with a particular focus on China. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
-My guiding motto is “Learn something about everything and everything about something!” 
-
 You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
