@@ -36,6 +36,6 @@ header:
 
 ## Software
 
-1. R package for statistical inference involving small cluster sizes (smaller than 50) [github](https://github.com/Jiawei-Fu/clusterinfer)
+1. R package for statistical inference involving small cluster sizes (smaller than 50) [\[github\]](https://github.com/Jiawei-Fu/clusterinfer)
 
-
+2. R package for Causal Mediation Analysis [\[github\]](https://github.com/Jiawei-Fu/mechte)
