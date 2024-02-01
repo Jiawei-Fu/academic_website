@@ -9,7 +9,7 @@ header:
 ## **Methodology**
 
 1. Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis."
-{{< staticref "pdf/poster_mechanism.pdf" "newtab" >}}[poster]{{< /staticref >}} {{< staticref "pdf/mechanism.pdf" "newtab">}}[paper]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}[\[R package\] ](https://github.com/Jiawei-Fu/mechte)
+{{< staticref "pdf/mechanism.pdf" "newtab">}}[paper]{{< /staticref >}} {{< staticref "pdf/mechanism_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}[\[R package\] ](https://github.com/Jiawei-Fu/mechte)
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."
 {{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/hte_appendix.pdf" "newtab" >}}[appendix]{{< /staticref >}}
@@ -34,5 +34,8 @@ header:
 
 3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
+## Software
+
+1. R package for statistical inference involving small cluster sizes (smaller than 50) [github](https://github.com/Jiawei-Fu/clusterinfer)
 
 
