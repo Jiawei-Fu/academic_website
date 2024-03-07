@@ -8,13 +8,13 @@ header:
 
 ## **Methodology**
 
-1. Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: A New Identification Strategy for Mediation Analysis."
+1. Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
 {{< staticref "pdf/mechanism.pdf" "newtab">}}[paper]{{< /staticref >}}[\[R package\] ](https://github.com/Jiawei-Fu/mechte)
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."
 {{< staticref "pdf/Paper_v3.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/hte_appendix.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
-3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Fundamental Inconsistency Problem of Multi-dimensional Experiment."
+3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problem of Experiments with Multi-dimensional Decisions."
 {{< staticref "pdf/poster_salience.pdf" "newtab" >}}[poster]{{< /staticref >}}
 
 4. [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. "Design-Based Inference for Group Interaction Experiments." (In progress)
