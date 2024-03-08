@@ -8,7 +8,7 @@ header:
 
 ## **Methodology**
 
-1. Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
+1. Jiawei Fu. "Extract Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis." (JMP)
 [[pre-print]](https://arxiv.org/abs/2403.04131){{< staticref "pdf/mechanism.pdf" "newtab">}}[paper]{{< /staticref >}}[\[R package\] ](https://github.com/Jiawei-Fu/mechte)
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."
