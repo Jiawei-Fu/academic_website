@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am a Ph.D. candidate in Politics at New York University. 
+Hi~ I am currently a Ph.D. candidate in Politics at New York University. In the 2024-2025 academic year, I will be serving as a postdoctoral associate, collaborating with Donald Green at Columbia University and Alan Gerber at Yale University. Additionally, I will be on the job market for 2024-25.
 
 In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis, which can transform a challenging mediation analysis problem into a simple linear regression problem without compromising the non-parametric nature. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
