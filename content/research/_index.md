@@ -18,6 +18,7 @@ header:
 
 4. [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. "Design-Based Inference for Group Interaction Experiments." (In progress)
 
+5. Jiawei Fu and [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou), "Mediation Analysis with Meta-Analysis" (In progress)
 
 ## **Formal Theory**
 
