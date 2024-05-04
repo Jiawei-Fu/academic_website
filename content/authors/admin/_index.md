@@ -40,13 +40,13 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am currently a Ph.D. candidate in Politics at New York University. In the 2024-2025 academic year, I will be serving as a postdoctoral associate, collaborating with Donald Green at Columbia University and Alan Gerber at Yale University. Additionally, I will be on the job market for 2024-25.
+Hi~ I am currently a Ph.D. candidate in Politics at New York University. In the 2024-2025 academic year, I will be serving as a postdoctoral associate, collaborating with Donald Green at Columbia University and Alan Gerber at Yale University. I will be entering the job market for the 2024-25 academic year.
 
-In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis, which can transform a challenging mediation analysis problem into a simple linear regression problem without compromising the non-parametric nature. The method enables researchers to estimate treatment and mediated effects simultaneously. 
+In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis that explores heterogeneous effects, providing an alternative to the current assumptions of ignorability. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
 In Formal Theory, my research centers on information and dynamic games. Currently, my project explores the full revelation problem of deliberation and debate. As you might anticipate, I align with two "sects": a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
-My substantive research spans various topics, including epidemiology, global health, and political economy. In particular, I study bureaucracy and inequality, with a particular focus on China. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
+My substantive research spans various topics, including political economy, global health, and epidemiology. In particular, I study bureaucracy and inequality, with a particular focus on *China*. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
 You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
 
