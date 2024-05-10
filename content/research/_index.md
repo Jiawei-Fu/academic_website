@@ -13,7 +13,7 @@ header:
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms." [[pre-print]](https://arxiv.org/abs/2404.01566)
 
-3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multi-dimensional Decisions."
+3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multidimensional Decisions."
 {{< staticref "pdf/experiment_bias.pdf" "newtab" >}}[paper]{{< /staticref >}}
 
 4. [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. "Design-Based Inference for Group Interaction Experiments." (In progress)
