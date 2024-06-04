@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am currently a Ph.D. candidate in Politics at New York University. In the 2024-2025 academic year, I will be serving as a postdoctoral associate, collaborating with Donald Green at Columbia University and Alan Gerber at Yale University. I will be entering the job market for the 2024-25 academic year.
+Hi~ I am currently a postdoctoral associate, collaborating with Donald Green at Columbia University and Alan Gerber at Yale University. I received my Ph.D. from New York University. I will be entering the job market for the 2024-25 academic year.
 
 In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis that explores heterogeneous effects, providing an alternative to the current assumptions of ignorability. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
@@ -48,7 +48,7 @@ In Formal Theory, my research centers on information and dynamic games. Currentl
 
 My substantive research spans various topics, including political economy, global health, and epidemiology. In particular, I study bureaucracy and inequality, with a particular focus on *China*. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
-You can reach me via email: [jf3739@nyu.edu](mailto:jf3739@nyu.edu).
+You can reach me via email: [jf3739@nyu.edu](mailto:jiawei.fu@yale.edu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
 
