@@ -48,7 +48,7 @@ In Formal Theory, my research centers on information and dynamic games. Currentl
 
 My substantive research spans various topics, including political economy, global health, and epidemiology. In particular, I study bureaucracy and inequality, with a particular focus on *China*. My latest work investigates the implicit influence of the affluent on political responsiveness in authoritarian regimes. Overall, I maintain an open mind towards all compelling research projects! 
 
-You can reach me via email: [jf3739@nyu.edu](mailto:jiawei.fu@yale.edu).
+You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
 
