@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am currently a postdoctoral associate in the Institution for Social and Policy Studies, Yale University, collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology. I received my Ph.D. from New York University. I will be entering the job market for the 2024-25 academic year.
+Hi~ I am currently a postdoctoral associate in the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology. I received my Ph.D. from New York University. I will be entering the job market for the 2024-25 academic year.
 
 In Methodology, I primarily study *causal mechanisms* and *heterogeneous treatment effects*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. I have proposed a new identification strategy for mediation analysis that explores heterogeneous effects, providing an alternative to the current assumptions of ignorability. The method enables researchers to estimate treatment and mediated effects simultaneously. 
 
