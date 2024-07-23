@@ -13,7 +13,7 @@ header:
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms." [[pre-print]](https://arxiv.org/abs/2404.01566)
 
-     ⤷ *2024 Winner of the Gosnell Prize for Excellence in Political Methodology*
+     ⟿*2024 Winner of the Gosnell Prize for Excellence in Political Methodology*
 
 3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multidimensional Decisions."
 [[pre-print]](https://arxiv.org/abs/2405.06779)
@@ -31,7 +31,7 @@ header:
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China."
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200) {{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}} {{< staticref "pdf/hotline_si.pdf" "newtab">}}[appendix]{{< /staticref >}} 
 
-2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." (Journal of Comparative Economics, R&R)
+2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." (conditional accepted at Journal of Comparative Economics)
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
 
 3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
