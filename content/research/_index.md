@@ -13,7 +13,7 @@ header:
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms." [[pre-print]](https://arxiv.org/abs/2404.01566)
 
-     ⤷ Winner of 2024 Gosnell Prize for Excellence in Political Methodology
+     ⤷ *Winner of 2024 Gosnell Prize for Excellence in Political Methodology*
 
 3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multidimensional Decisions."
 [[pre-print]](https://arxiv.org/abs/2405.06779)
