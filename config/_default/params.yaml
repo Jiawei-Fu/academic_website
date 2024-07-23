@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jiawei Fu is a Ph.D. candidate in Politics at NYU. I am interested in a variety of topics in political science. In Methodology, I primarily study causal mechanisms and moderation. I am working on how to use a simple identification strategy to simultaneously estimate treatment and mediated effects. In formal theory, I am particularly interested in information and communication. The current project is on full revelation in the deliberation and debate.'
+    description: 'Jiawei Fu is a postdoctoral associate at Yale Univerisity. I received my Ph.D.in Politics from NYU. I am interested in methodology and poltiical economy. My research in methodology is centered on the study of causal mechanisms, experimental and survey design, and causal inference in the context of strategic interaction. In formal theory, I am particularly interested in information and communication.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
