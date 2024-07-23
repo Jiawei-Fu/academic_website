@@ -13,10 +13,12 @@ header:
 
 2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms." [[pre-print]](https://arxiv.org/abs/2404.01566)
 
+⤷ Winner of 2024 Gosnell Prize for Excellence in Political Methodology
+
 3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multidimensional Decisions."
 [[pre-print]](https://arxiv.org/abs/2405.06779)
 
-4. [Cyrus Samii](https://cyrussamii.com/), [Ye Wang](https://www.yewang-polisci.com/), and Jiawei Fu. "Design-Based Inference for Group Interaction Experiments." (In progress)
+4. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." (In progress)
 
 5. Jiawei Fu and [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou), "Mediation Analysis with Meta-Analysis" (In progress)
 
