@@ -22,6 +22,10 @@ header:
 
 5. Jiawei Fu and [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou), "Mediation Analysis with Meta-Analysis" (In progress)
 
+6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Randomization Inference and Bootstrap" (In progress)
+
+7. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
+
 ## **Formal Theory**
 
 1. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
@@ -34,7 +38,7 @@ header:
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." (forthcoming at Journal of Comparative Economics)
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161190) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
 
-3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein: A Mendelian Randomization Study." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
 ## Software
 
