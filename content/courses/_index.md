@@ -16,7 +16,7 @@ As a Teaching Assistant at New York University, I teach recitations and lead lab
   
 - Game Theory II 
 
-  - Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
+  - Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
 
   - Recitation Note 2: {{< staticref "pdf/monotone.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
   
