@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hi~ I am currently a postdoctoral associate in the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology. I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html). I will be entering the job market for the 2024-25 academic year.
+Hi~ I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html) this year, am currently a postdoctoral associate in the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology.  I will be entering the job market for the 2024-25 academic year.
 
 In Methodology, I primarily study *causal mechanisms* and *causal Inference*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. One of the essays, co-authored with Tara Slough, has been awarded the [2024 Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize).
 
