@@ -26,9 +26,6 @@ header:
 
 7. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
 
-## **Formal Theory**
-
-1. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
 
 ## **Political Economy and Health**
 
@@ -39,6 +36,11 @@ header:
 [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
 
 3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
+
+## **Formal Theory**
+
+1. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
+
 
 ## Software
 
