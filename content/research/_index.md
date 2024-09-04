@@ -27,7 +27,7 @@ header:
 7. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
 
 
-## **Political Economy and Health**
+## **Political Economy**
 
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." (R&R at *Comparative Political Studies*)
 [[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200) {{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}} {{< staticref "pdf/hotline_si.pdf" "newtab">}}[appendix]{{< /staticref >}} 
