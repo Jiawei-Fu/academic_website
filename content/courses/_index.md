@@ -8,7 +8,7 @@ header:
 
 As a Teaching Assistant at New York University, I teach recitations and lead laboratory sessions for the following courses:
 
-## Ph.D Level
+## Ph.D.
 
 - Introduction to Quantitative Political Analysis III
 
@@ -32,7 +32,7 @@ As a Teaching Assistant at New York University, I teach recitations and lead lab
 
   - Covering: Programming with R, Causal Inference
 
-## Master Level
+## Master
 
 - East Asian Politics: China & Japan
 
