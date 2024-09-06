@@ -11,7 +11,7 @@ At New York University, my teaching experience has been exceptionally diverse. I
 ## Ph.D. Level
 
 1. Introduction to Quantitative Political Analysis III
-  - Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
+    + Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
   
 2. Game Theory II 
 
