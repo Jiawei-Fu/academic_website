@@ -10,11 +10,11 @@ At New York University, my teaching experience has been exceptionally diverse. I
 
 ## Ph.D. Level
 
-- Introduction to Quantitative Political Analysis III
+1. Introduction to Quantitative Political Analysis III
 
   - Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
   
-- Game Theory II 
+2. Game Theory II 
 
   - Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
 
@@ -25,17 +25,17 @@ At New York University, my teaching experience has been exceptionally diverse. I
 
 ## Master Level
 
-- East Asian Politics: China & Japan
+3. East Asian Politics: China & Japan
 
-- Master’s Thesis Seminar
+4. Master’s Thesis Seminar
 
-- Games, Strategy, and Politics
+5. Games, Strategy, and Politics
 
 
 ## Undergraduate Level
 
-- Introduction to Game Theory
+6. Introduction to Game Theory
 
-- Introduction to Research Methods for Politics
+7. Introduction to Research Methods for Politics
 
   - Covering: Programming with R, Causal Inference
