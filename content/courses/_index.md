@@ -12,6 +12,7 @@ At New York University, my teaching experience has been exceptionally diverse. I
 
 1. Introduction to Quantitative Political Analysis III
     + Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
+    + My own syllabus on Causal Infernece and Causal Mediation: {{< staticref "pdf/syllabus_quant.pdf" "newtab" >}} syllabus {{< /staticref >}}
   
 2. Game Theory II 
     + Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
