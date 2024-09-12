@@ -28,7 +28,7 @@ header:
 ## **Political Economy**
 
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." (R&R at *Comparative Political Studies*)
-[[pre-print]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200) {{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}} {{< staticref "pdf/hotline_si.pdf" "newtab">}}[appendix]{{< /staticref >}} 
+{{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}}
 
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." (forthcoming at *Journal of Comparative Economics*)
 [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
