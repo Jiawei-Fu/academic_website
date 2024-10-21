@@ -16,7 +16,7 @@ At New York University, my teaching experience has been exceptionally diverse. I
   
 2. Game Theory II 
     + Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
-    + Recitation Note 2: {{< staticref "pdf/monotone.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
+    + Recitation Note 2: {{< staticref "pdf/extensive.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
     + My own syllabus on information and communication: {{< staticref "pdf/syllabus_inf.pdf" "newtab" >}} syllabus {{< /staticref >}}
 
 
