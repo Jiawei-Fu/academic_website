@@ -44,7 +44,7 @@ Hello! I received my Ph.D. from [New York University](https://as.nyu.edu/departm
 
 My research primarily focuses on Quantitative Methods and Formal Theory, specifically on *Causal Mechanisms* and *Causal Inference*. My dissertation develops theoretical foundations and statistical methods for identifying and estimating mediation effects in the social sciences. One of the essays, co-authored with Tara Slough, has been awarded the [2024 Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize). Currently, I am working on design-based inference for complex experimental designs in the real-world settings.
 
-My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in *China*. My latest work investigates the implicit bias of street-level bureaucrats in authoritarian regimes, utilizing 40,000 non-emergency hotline text data. My formal theory research centers on democratic deliberation and debate. 
+My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. My latest work investigates the implicit bias of street-level bureaucrats in authoritarian regimes, utilizing 40,000 non-emergency hotline text data. My formal theory research centers on democratic deliberation and debate. 
 
 As you might anticipate, I align with two "sects": a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
