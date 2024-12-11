@@ -30,7 +30,7 @@ header:
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Do the Affluent Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." (R&R at *Comparative Political Studies*)
 {{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}}
 
-2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." *Journal of Comparative Economics*. 2024 [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
+2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." *Journal of Comparative Economics*. 2024. [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/mental_health.pdf" "newtab">}}[paper]{{< /staticref >}} 
 
 3. [Xiushi Zhou](https://www.researchgate.net/profile/Xiushi-Zhou) and Jiawei Fu. "Causal Mechanism for Basal Metabolic Rate and Atrial Fibrillation with Plasma Protein." {{< staticref "pdf/bmr_af.pdf" "newtab" >}}[paper]{{< /staticref >}}{{< staticref "pdf/bmr_af_si.pdf" "newtab" >}}[appendix]{{< /staticref >}}
 
