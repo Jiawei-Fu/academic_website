@@ -6,7 +6,7 @@ header:
   image: ''
 ---
 
-At New York University, my teaching experience has been exceptionally diverse. I have served as a teaching assistant for seven different courses. I consistently received high ratings from students across all courses, with an average of 4.62/5.
+At New York University, I have served as a teaching assistant for seven different courses, with an average of 4.62/5.
 
 ## Ph.D. Level
 
