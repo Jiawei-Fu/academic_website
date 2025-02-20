@@ -18,9 +18,10 @@ header:
 3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Problems in Experiments Involving Multidimensional Decisions."
 [[pre-print]](https://arxiv.org/abs/2405.06779)
 
-4. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
+4. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for
+Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[slides]{{< /staticref >}}
 
-5. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal inference for latent variables" (In progress)
+5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
 
 6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
 
