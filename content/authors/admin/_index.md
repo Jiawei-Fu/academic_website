@@ -48,5 +48,3 @@ As you might anticipate, I align with two "sects": a proponent of Theoretical Im
 
 You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Curriculum_Vitae.pdf" "newtab" >}}CV.{{< /staticref >}}
-
