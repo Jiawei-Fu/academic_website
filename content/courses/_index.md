@@ -24,9 +24,9 @@ header:
 
 4. Master’s Thesis Seminar (Master Level)
 
-5. Games, Strategy, and Politics (Master Level)
+5. Games, Strategy, and Politics (Undergraduate Level)
 
-6. Introduction to Game Theory (Master Level)
+6. Introduction to Game Theory (Undergraduate Level)
 
-7. Introduction to Research Methods for Politics (Master Level)
+7. Introduction to Research Methods for Politics (Undergraduate Level)
     + Covering: Programming with R, Causal Inference
