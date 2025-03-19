@@ -8,7 +8,7 @@ header:
 
 ## **Duke University**
 
-1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} temporary syllabus {{< /staticref >}}
+1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} [temporary syllabus] {{< /staticref >}}
 
 
 ## **New York University** (Teaching Assistant)
