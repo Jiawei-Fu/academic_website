@@ -6,12 +6,12 @@ header:
   image: ''
 ---
 
-## Duke University
+## **Duke University**
 
-1. Fall 2025: Computational Methods in Social Science {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} temporary syllabus {{< /staticref >}}
+1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} temporary syllabus {{< /staticref >}}
 
 
-## New York University (Teaching Assistant)
+## **New York University** (Teaching Assistant)
 
 1. Introduction to Quantitative Political Analysis III (Ph.D. Level)
     + Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
