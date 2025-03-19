@@ -6,37 +6,27 @@ header:
   image: ''
 ---
 
-Duke University
+## Duke University
 
-Fall 2025: Computational Methods in Social Science {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} syllabus {{< /staticref >}}
+1. Fall 2025: Computational Methods in Social Science {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} temporary syllabus {{< /staticref >}}
 
 
-New York University (Teaching Assistant)
+## New York University (Teaching Assistant)
 
-## Ph.D. Level
-
-1. Introduction to Quantitative Political Analysis III
+1. Introduction to Quantitative Political Analysis III (Ph.D. Level)
     + Covering: Bayesian Statistics,  Machine Learning, Text Analysis, MLE.
-    + My own syllabus on Causal Infernece and Causal Mediation: {{< staticref "pdf/syllabus_quant.pdf" "newtab" >}} syllabus {{< /staticref >}}
-  
-2. Game Theory II 
+
+2. Game Theory II (Ph.D. Level)
     + Recitation Note 1:  {{< staticref "pdf/monotone.pdf" "newtab" >}} Monotone Comparative Statics and Supermodular Game {{< /staticref >}}
     + Recitation Note 2: {{< staticref "pdf/extensive.pdf" "newtab" >}} Equilibrium Refinements in Extensive Form Games {{< /staticref >}}
-    + My own syllabus on information and communication: {{< staticref "pdf/syllabus_inf.pdf" "newtab" >}} syllabus {{< /staticref >}}
 
+3. East Asian Politics: China & Japan (Master Level)
 
-## Master Level
+4. Master’s Thesis Seminar (Master Level)
 
-3. East Asian Politics: China & Japan
+5. Games, Strategy, and Politics (Master Level)
 
-4. Master’s Thesis Seminar
+6. Introduction to Game Theory (Master Level)
 
-5. Games, Strategy, and Politics
-
-
-## Undergraduate Level
-
-6. Introduction to Game Theory
-
-7. Introduction to Research Methods for Politics
+7. Introduction to Research Methods for Politics (Master Level)
     + Covering: Programming with R, Causal Inference
