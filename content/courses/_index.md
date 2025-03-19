@@ -6,7 +6,12 @@ header:
   image: ''
 ---
 
-At New York University, I have served as a teaching assistant for seven different courses, with an average of 4.62/5.
+Duke University
+
+Fall 2025: Computational Methods in Social Science {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} syllabus {{< /staticref >}}
+
+
+New York University (Teaching Assistant)
 
 ## Ph.D. Level
 
