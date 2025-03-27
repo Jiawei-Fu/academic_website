@@ -48,5 +48,5 @@ As you might anticipate, I align with two "sects": a proponent of Theoretical Im
 
 My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. 
 
-You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu). Many welcome the coffee chat :coffee:!
+I am very happy to connect and have a coffee chat :coffee: anytime! You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
 
