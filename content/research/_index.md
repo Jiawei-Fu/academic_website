@@ -28,7 +28,7 @@ Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[worki
 
 ## **Political Economy and Health**
 
-1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "How Affluence Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." (Conditionally accepted at *Comparative Political Studies*)
+1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "Does Affluence Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." (Conditionally accepted at *Comparative Political Studies*)
 {{< staticref "pdf/hotline.pdf" "newtab">}}[paper]{{< /staticref >}}
 
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." *Journal of Comparative Economics*. 2024. [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/Mental_Health_JCE.pdf" "newtab">}}[pre-print]{{< /staticref >}} 
