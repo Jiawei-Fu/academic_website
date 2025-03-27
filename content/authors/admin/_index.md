@@ -42,11 +42,11 @@ first_name: Jiawei
 
 Hello! I am currently a postdoctoral associate in the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology. I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html). In Fall 2025, I will be joining the [Department of Political Science at Duke University](https://polisci.duke.edu/) as an Assistant Professor.
 
-My research primarily focuses on Quantitative Methods and Formal Theory, specifically on *Experimental Design*, *Causal Mechanisms* and *Causal Inference*. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. 
-
-My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. 
+My research primarily focuses on Quantitative Methods---including experimental design, causal mechanisms, and causal inference---as well as Formal Theory. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. I am especially interested in incorporating mathematical models of human behavior, such as game-theoretic models and social-choice theory, into my quantitative methodological research. 
 
 As you might anticipate, I align with two "sects": a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
+
+My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. 
 
 You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
 
