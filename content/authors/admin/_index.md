@@ -48,5 +48,5 @@ As you might anticipate, I align with two "sects":crossed_swords:: a proponent o
 
 My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. 
 
-I am very happy to have grab a coffee :coffee: together! You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
+:coffee: You can reach me via email: [jiawei.fu@yale.edu](mailto:jiawei.fu@yale.edu).
 
