@@ -44,7 +44,7 @@ Hello! I am currently a postdoctoral associate in the [Institution for Social an
 
 My research primarily focuses on Quantitative Methods---including experimental design, causal mechanisms, and causal inference---as well as Formal Theory. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. I am especially interested in incorporating mathematical models of human behavior, such as game-theoretic models and social-choice theory, into my quantitative methodological research. 
 
-As you might anticipate, I align with two "sects":crossed_swords:: a proponent of Theoretical Implications of Empirical Models (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
+As you might anticipate, I align with two "sects":crossed_swords:: a proponent of Theoretical Implications of Empirical Models/Methods (TIEM) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
 My substantive research explores the political economy of non-democracy, with a particular emphasis on bureaucracy, mental health, and institutions in China. 
 
