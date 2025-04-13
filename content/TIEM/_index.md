@@ -53,4 +53,5 @@ Eggers, Andrew C., Guadalupe Tuñón, and Allan Dafoe. ["Placebo tests for causa
 ### Resourse:
 
 Stepane Wolton's understanding of TIEM：https://stephanewolton.com/about/tiem/
+
 Scott A. Tyson's syllabus: https://www.sas.rochester.edu/psc/syllabi/20202021/508_TIEM_Syll.pdf
