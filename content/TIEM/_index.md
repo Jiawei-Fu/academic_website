@@ -1,9 +1,9 @@
 ---
 header:
-  caption: "Theoretical Implications of Empirical Models/Methods (TIEM)"
+  caption: "Theoretical Implications of Empirical Models/Methods"
   image: ""
 layout: book
-title: Theoretical Implications of Empirical Models/Methods (TIEM)
+title: Theoretical Implications of Empirical Models/Methods
 ---
 
 We observe that an increasing number of formal theorists and quantitative methodologists are engaging in a similar line of research: drawing insights from formal theory to inform empirical methodology. This represents a kind of reversal of the Empirical Implications of Theoretical Models (EITM) approach, which derives testable hypotheses from formal theory and evaluates them using innovative empirical designs.
