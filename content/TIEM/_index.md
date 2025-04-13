@@ -44,7 +44,7 @@ Eggers, Andrew C. ["Quality-based explanations of incumbency effects."](https://
 
 Abramson, Scott F., Korhan Koçak, and Asya Magazinnik. ["What do we learn about voter preferences from conjoint experiments?."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12714) American Journal of Political Science 66, no. 4 (2022): 1008-1020.[[pre-print]](https://www.korhankocak.com/publication/cp/CP.pdf)
 
-Fu, Jiawei, and Xiaojun Li. ["Generalization Issues in Experiments Involving Multidimensional Decisions."](https://arxiv.org/abs/2405.06779) arXiv preprint arXiv:2405.06779 (2024).
+Fu, Jiawei, and Xiaojun Li. ["Generalization Issues in Conjoint Experiment: Attention and Salience."](https://arxiv.org/abs/2405.06779) arXiv preprint arXiv:2405.06779 (2024).
 
 ### Placebo Test
 
