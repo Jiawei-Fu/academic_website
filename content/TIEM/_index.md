@@ -50,7 +50,7 @@ Fu, Jiawei, and Xiaojun Li. ["Generalization Issues in Experiments Involving Mul
 
 Eggers, Andrew C., Guadalupe Tuñón, and Allan Dafoe. ["Placebo tests for causal inference."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12818) American Journal of Political Science 68, no. 3 (2024): 1106-1121. [[pre-print]](https://www.dropbox.com/scl/fi/taozan5feeiso2099kapl/23-03-08_final_wp_version.pdf?rlkey=pk6ioqq8myal8pcdnqqgpsbt5&e=1&dl=0)
 
-### Resourse:
+### Other Resourses:
 
 Stepane Wolton's understanding of TIEM：[https://stephanewolton.com/about/tiem/](https://stephanewolton.com/about/tiem/)
 
