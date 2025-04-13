@@ -20,7 +20,7 @@ Slough, Tara. ["Phantom counterfactuals."](https://onlinelibrary.wiley.com/doi/1
 
 Ashworth, Scott, Christopher R. Berry, and Ethan Bueno de Mesquita. ["Modeling theories of women's underrepresentation in elections."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12785) American Journal of Political Science 68, no. 1 (2024): 289-303. [[pre-print]](https://home.uchicago.edu/~sashwort/women.pdf)
 
-### External Validity:
+### External Validity
 
 Slough, Tara, and Scott A. Tyson. ["External Validity and Meta‐Analysis."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12742) American Journal of Political Science 67, no. 2 (2023): 440-455. [[pre-print]](https://taraslough.github.io/assets/pdf/ev_ma.pdf)
 
