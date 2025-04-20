@@ -18,6 +18,9 @@ name = "Minimal"
 [dark]
   # Primary
   primary = "#bbdefb"
-
+  
+  # Menu
+  menu_text_active = "#90e0ef"
+  
   link = "#bbdefb"
   link_hover = "#bbdefb"
