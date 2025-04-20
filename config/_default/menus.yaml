@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: TIEM
     url: 'tiem/'
-    weight: 40
+    weight: 30
   - name: Teaching
     url: 'courses/'
-    weight: 30 
+    weight: 40 
   - name: CV
     url: "pdf/Curriculum_Vitae.pdf"
   #- name: Contact
