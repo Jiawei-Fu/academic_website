@@ -1,6 +1,5 @@
 ---
-title: "Jiawei Fu \n fff"
-subtitle: "傅佳尉" 
+title: "Jiawei Fu"
 education:
   courses:
   - course: PhD in Politics
@@ -26,7 +25,7 @@ last_name: Fu
 organizations:
 - name: Yale University
   url: https://isps.yale.edu/
-role: Postdoctoral Associate
+role: 傅佳尉
 social:
 - icon: envelope
   icon_pack: fas
