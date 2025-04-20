@@ -19,7 +19,7 @@ header:
 [[pre-print]](https://arxiv.org/abs/2405.06779)
 
 4. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for
-Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[working paper]{{< /staticref >}}
+Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[working paper]{{< /staticref >}} [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
 5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
 
@@ -41,6 +41,8 @@ Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[worki
 
 ## Software
 
-1. R package for statistical inference involving small cluster sizes (smaller than 50) [\[github\]](https://github.com/Jiawei-Fu/clusterinfer)
+1. R package for Causal Inference with Latent Outcomes [\[github\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
-2. R package for Causal Mediation Analysis [\[github\]](https://github.com/Jiawei-Fu/mechte)
+2. R package for statistical inference involving small cluster sizes (smaller than 50) [\[github\]](https://github.com/Jiawei-Fu/clusterinfer)
+
+3. R package for Causal Mediation Analysis [\[github\]](https://github.com/Jiawei-Fu/mechte)
