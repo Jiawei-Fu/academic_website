@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: ""
 layout: book
 header:
   caption: ''
