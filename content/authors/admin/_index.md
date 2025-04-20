@@ -1,5 +1,6 @@
 ---
-title: "Jiawei Fu 傅佳尉"
+title: "Jiawei Fu"
+subtitle: "傅佳尉" 
 education:
   courses:
   - course: PhD in Politics
