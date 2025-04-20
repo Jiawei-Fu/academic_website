@@ -2,7 +2,7 @@
 title: "Theoretical Implications of Empirical Models/Methods"
 layout: book
 header:
-  caption: "Theoretical Implications of Empirical Models/Methods"
+  caption: ""
   image: ""
 ---
 
