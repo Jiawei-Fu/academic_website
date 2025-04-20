@@ -8,9 +8,13 @@ title: Theoretical Implications of Empirical Models/Methods
 
 We observe that an increasing number of formal theorists and quantitative methodologists are engaging in a similar line of research: drawing insights from formal theory to inform empirical methodology. This represents a kind of reversal of the Empirical Implications of Theoretical Models (EITM) approach, which derives testable hypotheses from formal theory and evaluates them using innovative empirical designs.
 
-In contrast, the Theoretical Implications of Empirical Models/Methods (TIEM) framework seeks to apply tools from formal theory—such as decision theory and game theory—to re-examine, critique, and improve empirical methodologies. While EITM emphasizes theory testing, TIEM aims to provide formal foundations for the empirical strategies used to study human behavior and society.
+In contrast, the Theoretical Implications of Empirical Models/Methods (TIEM) framework seeks to apply tools from formal theory—such as decision theory and game theory—to re-examine, critique, and improve empirical methodologies. While EITM emphasizes theory testing, TIEM aims to provide formal foundations for the empirical strategies used to study human behavior and society. Understandably, people may hold different views on what TIEM entails; here, I primarily adopt a methodological perspective.
 
-This site aims to provide up-to-date resources and developments related to TIEM research. I am grateful for and welcome everyone's help—if you know of any research or resources that are not listed here, please let me know. I will be sure to give you credit!
+Why is this important? Social science differs fundamentally from the natural sciences in one key aspect: our research subjects are human beings—agents who act actively and strategically. Unlike phenomena in fields such as macro-physics or chemistry, social patterns are generally probabilistic and shaped by rational responses and equilibrium adjustments. Given this, empirical designs that ignore these features and routinely apply causal inference methods risk producing misleading or misinformed conclusions. 
+
+TIEM acknowledges these concerns and offers potential solutions. From a philosophical or intellectual history perspective, it bears resemblance to the Frankfurt School, which should be understood within the broader context of the intellectual and practical goals of critical theory. Beyond this connection, as an emerging field, I am optimistic about the development of a more unified framework—one that provides systematic tools and methods to better study social science.
+
+This site aims to provide up-to-date resources and developments related to TIEM research. I am grateful for and welcome everyone's help—if you know of any research or resources that are not listed here, please let me know. Thank you in advance! 
 
 ### Research Design
 
