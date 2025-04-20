@@ -11,7 +11,7 @@ main:
     url: "research/"
     weight: 20
   - name: TIEM
-    url: 'TIEM/'
+    url: 'tiem/'
     weight: 40
   - name: Teaching
     url: 'courses/'
