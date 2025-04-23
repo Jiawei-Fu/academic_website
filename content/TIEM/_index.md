@@ -44,6 +44,8 @@ Fu, Jiawei, and Tara Slough. ["Heterogeneous Treatment Effects and Causal Mechan
 
 ### Difference-in-differences
 
+Ghanem, Dalia, Pedro HC Sant'Anna, and Kaspar Wüthrich. ["Selection and parallel trends."](https://arxiv.org/pdf/2203.09001) arXiv preprint arXiv:2203.09001 (2022).
+
 Marx, Philip, Elie Tamer, and Xun Tang. ["Parallel trends and dynamic choices."](https://www.journals.uchicago.edu/doi/full/10.1086/727363) Journal of Political Economy Microeconomics 2, no. 1 (2024): 129-171.[[pre-print]](https://arxiv.org/pdf/2207.06564)
 
 ### Regression Discontinuity Designs 
