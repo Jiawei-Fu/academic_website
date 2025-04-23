@@ -20,6 +20,8 @@ This site aims to provide up-to-date resources and developments related to TIEM 
 
 De Mesquita, Ethan Bueno, and Scott A. Tyson. ["The commensurability problem: Conceptual difficulties in estimating the effect of behavior on behavior."](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/commensurability-problem-conceptual-difficulties-in-estimating-the-effect-of-behavior-on-behavior/53537B428D760C5FA4886D4F677AEDD3) American Political Science Review 114, no. 2 (2020): 375-391.[[pre-print]](https://drive.google.com/file/d/1rdnPgJNJwYJD9TvRsMHuHNo0ImFX0Zve/view)
 
+Fudenberg, Drew, and David K. Levine. ["Learning in games and the interpretation of natural experiments."](https://pubs.aeaweb.org/doi/pdfplus/10.1257/mic.20200106) American Economic Journal: Microeconomics 14, no. 3 (2022): 353-377.
+
 Slough, Tara. ["Phantom counterfactuals."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12715) American Journal of Political Science 67, no. 1 (2023): 137-153.[[pre-print]](https://taraslough.github.io/assets/pdf/phantom_counterfactuals.pdf)
 
 Ashworth, Scott, Christopher R. Berry, and Ethan Bueno de Mesquita. ["Modeling theories of women's underrepresentation in elections."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12785) American Journal of Political Science 68, no. 1 (2024): 289-303. [[pre-print]](https://home.uchicago.edu/~sashwort/women.pdf)
