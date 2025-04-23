@@ -40,6 +40,10 @@ Slough, Tara, and Scott A. Tyson. [External Validity and Evidence Accumulation.]
 
 Fu, Jiawei, and Tara Slough. ["Heterogeneous Treatment Effects and Causal Mechanisms."](https://arxiv.org/abs/2404.01566) arXiv preprint arXiv:2404.01566 (2024).
 
+### Difference-in-differences
+
+Marx, Philip, Elie Tamer, and Xun Tang. ["Parallel trends and dynamic choices."](https://www.journals.uchicago.edu/doi/full/10.1086/727363) Journal of Political Economy Microeconomics 2, no. 1 (2024): 129-171.[[pre-print]](https://arxiv.org/pdf/2207.06564)
+
 ### Regression Discontinuity Designs 
 
 Eggers, Andrew C., Ronny Freier, Veronica Grembi, and Tommaso Nannicini. ["Regression discontinuity designs based on population thresholds: Pitfalls and solutions."](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12332)American Journal of Political Science 62, no. 1 (2018): 210-229.[[pre-print]](https://andy.egge.rs/papers/EggersFreierGrembiNannicini_pop_thresholds.pdf)
