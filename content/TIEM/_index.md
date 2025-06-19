@@ -60,6 +60,10 @@ Abramson, Scott F., Korhan Koçak, and Asya Magazinnik. ["What do we learn about
 
 Fu, Jiawei, and Xiaojun Li. ["Generalization Issues in Conjoint Experiment: Attention and Salience."](https://arxiv.org/abs/2405.06779) arXiv preprint arXiv:2405.06779 (2024).
 
+### Structural Model
+
+Andrews, Isaiah, Nano Barahona, Matthew Gentzkow, Ashesh Rambachan, and Jesse M. Shapiro. ["Structural estimation under misspecification: Theory and implications for practice."](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjaf018/8090182?redirectedFrom=fulltext) The Quarterly Journal of Economics (2025): qjaf018.
+
 ### Placebo Test
 
 Eggers, Andrew C., Guadalupe Tuñón, and Allan Dafoe. ["Placebo tests for causal inference."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12818) American Journal of Political Science 68, no. 3 (2024): 1106-1121. [[pre-print]](https://www.dropbox.com/scl/fi/taozan5feeiso2099kapl/23-03-08_final_wp_version.pdf?rlkey=pk6ioqq8myal8pcdnqqgpsbt5&e=1&dl=0)
