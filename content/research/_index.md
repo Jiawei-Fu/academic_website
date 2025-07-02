@@ -15,11 +15,11 @@ header:
 
      ⟿[2024 Winner of the Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize)
 
-3. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Issues in Conjoint Experiment: Attention and Salience."
-[[pre-print]](https://arxiv.org/abs/2405.06779)
+3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for
+Design and Analysis" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
-4. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for
-Design and Analysis" {{< staticref "pdf/multiple_outcomes.pdf" "newtab">}}[working paper]{{< /staticref >}} [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
+4. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Issues in Conjoint Experiment: Attention and Salience."
+[[pre-print]](https://arxiv.org/abs/2405.06779)
 
 5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
 
