@@ -11,7 +11,7 @@ education:
   - course: LLB (in political science)
     institution: ECUPL
     year: 2012-2016
-email: jiawei.fu@yale.edu
+email: jiawei.fu@duke.edu
 output:
   html_document:
     df_print: paged
@@ -23,13 +23,13 @@ interests:
 - Health
 last_name: Fu
 organizations:
-- name: Yale University
-  url: https://isps.yale.edu/
+- name: Duke University
+  url: https://polisci.duke.edu/
 role: 傅佳尉
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jiawei.fu@yale.edu'
+  link: 'mailto:jiawei.fu@duke.edu'
 - display:
     header: yes
 - icon: github
@@ -40,7 +40,7 @@ bio: null
 first_name: Jiawei
 ---
 
-Hello! I am currently a postdoctoral associate in the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), collaborating with Donald Green (Columbia University) and Alan Gerber on political methodology. I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html). In Fall 2025, I will be joining the [Department of Political Science at Duke University](https://polisci.duke.edu/) as an Assistant Professor.
+Hello! I am an Assistant Professor in the [Department of Political Science at Duke University](https://polisci.duke.edu/). I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html). Before joining Duke, I was a Postdoctoral associate at the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), where I collaborated with Donald Green (Columbia University) and Alan Gerber on political methodology.
 
 My research primarily focuses on Quantitative Methods---including experimental design, causal mechanisms, and causal inference---as well as Formal Theory. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. I am especially interested in incorporating mathematical models of human behavior, such as game-theoretic models and social-choice theory, into my quantitative methodological research. 
 
