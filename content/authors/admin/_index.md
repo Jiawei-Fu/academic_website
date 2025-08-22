@@ -50,5 +50,5 @@ My substantive research explores the political economy of non-democracy, with a 
 
 :coffee: You can reach me via email: [jiawei.fu@duke.edu](mailto:jiawei.fu@duke.edu).
 
-:green_book: For students who would like to meet—about anything at all—please use this [link](https://outlook.office.com/bookwithme/user/ea2f5f25634a4a5e87795b147d6d3513@duke.edu?anonymous&ismsaljsauthenabled&ep=plink) to schedule a time. It will help us save time and stay organized.
+:green_book: For students who would like to meet—about anything at all—please use this [link](https://outlook.office.com/bookwithme/user/ea2f5f25634a4a5e87795b147d6d3513@duke.edu?anonymous&ismsaljsauthenabled&ep=plink) to schedule a time. My office number is 294A Gross Hall.
 
