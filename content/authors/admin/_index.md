@@ -42,7 +42,7 @@ first_name: Jiawei
 
 Hello! I am an Assistant Professor in the [Department of Political Science at Duke University](https://polisci.duke.edu/). I received my Ph.D. from [New York University](https://as.nyu.edu/departments/politics.html). Before joining Duke, I was a Postdoctoral associate at the [Institution for Social and Policy Studies, Yale University](https://isps.yale.edu/), where I collaborated with Donald Green (Columbia University) and Alan Gerber on political methodology.
 
-My research primarily focuses on Quantitative Methods---including experimental design, causal mechanisms, and causal inference---as well as Formal Theory. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. I am especially interested in incorporating mathematical models of human behavior, such as game-theoretic models and social-choice theory, into my quantitative methodological research. 
+My research primarily focuses on Quantitative Methods---including experimental design, causal mechanism/ inference, and computational methods---as well as Formal Theory. Currently, I am working on design-based inference for complex experimental designs in the real-world settings. I am especially interested in incorporating mathematical models of human behavior, such as game-theoretic models and social-choice theory, into my quantitative methodological research. 
 
 As you might anticipate, I align with two "sects": a proponent of [Theoretical Implications of Empirical Models/Methods (TIEM)](https://jiaweifu.org/tiem/) and an advocate for the Empirical Implications of Theoretical Models (EITM).
 
