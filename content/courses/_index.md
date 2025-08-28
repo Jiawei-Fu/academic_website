@@ -8,10 +8,10 @@ header:
 
 ## **Duke University**
 
-1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} [temporary syllabus] {{< /staticref >}}
-
 To save time, please schedule meetings through the appointment [link](https://outlook.office.com/bookwithme/user/ea2f5f25634a4a5e87795b147d6d3513@duke.edu?anonymous&ismsaljsauthenabled&ep=plink). Multiple slots are available throughout the week and will be updated regularly. If none of the available times work for you, please send me an email and we will find an alternative time. My office is located at 294A Gross Hall.
 
+
+1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} [temporary syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/Lec_intro.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/Lec_linear.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
 
