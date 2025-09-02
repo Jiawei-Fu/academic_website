@@ -14,6 +14,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
 1. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/Lec_intro.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/Lec_linear.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
+    + Lecture 3:  {{< staticref "pdf/Lec_inference.pdf" "newtab" >}} Post-Selection Inference {{< /staticref >}}
 
 ## **New York University**
 
