@@ -15,6 +15,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 1:  {{< staticref "pdf/Lec_intro.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/Lec_linear.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
     + Lecture 3:  {{< staticref "pdf/Lec_inference.pdf" "newtab" >}} Post-Selection Inference {{< /staticref >}}
+    + Lecture 4:  {{< staticref "pdf/Lec_trees.pdf" "newtab" >}} Tree-based Methods and Boosting {{< /staticref >}}
 
 ## **New York University**
 
