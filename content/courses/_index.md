@@ -17,6 +17,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 3:  {{< staticref "pdf/Lec_inference.pdf" "newtab" >}} Post-Selection Inference {{< /staticref >}}
     + Lecture 4:  {{< staticref "pdf/Lec_trees.pdf" "newtab" >}} Tree-based Methods and Boosting {{< /staticref >}}
     + Lecture 5:  {{< staticref "pdf/Lec_unsupervised.pdf" "newtab" >}} Overview of Unsupervised Learning {{< /staticref >}}
+    + Lecture 6:  {{< staticref "pdf/Lec_hte.pdf" "newtab" >}} Machine Learning and Causal Inference I: HTE {{< /staticref >}}
 
 ## **New York University**
 
