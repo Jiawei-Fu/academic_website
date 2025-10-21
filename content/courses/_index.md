@@ -21,6 +21,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 7:  {{< staticref "pdf/Lec_dml.pdf" "newtab" >}} Causal Inference and Machine Learning II: Double Machine Learning {{< /staticref >}}
     + Lecture 8:  {{< staticref "pdf/Lec_dml2.pdf" "newtab" >}} Causal Inference and Machine Learning III: DML and Identification Strategies {{< /staticref >}}
     + Lecture 9:  {{< staticref "pdf/Lec_text.pdf" "newtab" >}} Text as Data: Representation and Descriptive Inference {{< /staticref >}}
+    + Lecture 10:  {{< staticref "pdf/Lec_dl1.pdf" "newtab" >}} Deep Learning I: Basics and CNN {{< /staticref >}}
 
 ## **New York University**
 
