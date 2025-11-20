@@ -26,6 +26,9 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 11:  {{< staticref "pdf/Lec_dl2.pdf" "newtab" >}} Deep Learning II: NLP and Transformer {{< /staticref >}}
     + Lecture 12:  {{< staticref "pdf/Lec_latent.pdf" "newtab" >}} Causal Inference with Latent Treatment, Outcome, and Confounder {{< /staticref >}}
     + Lecture 13:  {{< staticref "pdf/Lec_network1.pdf" "newtab" >}} Network Analysis 1: Statitstical Perspectives {{< /staticref >}}
+     + Lecture 14:  {{< staticref "pdf/Interference_Duke2025Nov.pdf" "newtab" >}} Causal Inference under Interference (Guest Speaker: Ye Wang from UNC) {{< /staticref >}}
+
+
 
 ## **New York University**
 
