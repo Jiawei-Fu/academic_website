@@ -11,7 +11,7 @@ header:
 1. Jiawei Fu. "Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
 [[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\] ](https://github.com/Jiawei-Fu/mechte)
 
-2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."(APSR, R&R) [[pre-print]](https://arxiv.org/abs/2404.01566)
+2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."(APSR, conditionally accepted) [[pre-print]](https://arxiv.org/abs/2404.01566)
 
      ⟿[2024 Winner of the Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize)
 
