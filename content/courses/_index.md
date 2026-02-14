@@ -13,6 +13,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
 1. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/Duke_regression.pdf" "newtab" >}} [temporary syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/Lec630_intro.pdf" "newtab" >}} Roadmap and Population Models {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/Lec630_estimation.pdf" "newtab" >}} OLS Estimation {{< /staticref >}}
+    + Lecture 3:  {{< staticref "pdf/Lec630_finite.pdf" "newtab" >}} OLS Finite Sample Property {{< /staticref >}}
 
 
 2. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Duke_computation.pdf" "newtab" >}} [updated syllabus] {{< /staticref >}}
