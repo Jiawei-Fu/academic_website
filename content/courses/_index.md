@@ -15,7 +15,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 2:  {{< staticref "pdf/Lec630_estimation.pdf" "newtab" >}} OLS Estimation {{< /staticref >}}
     + Lecture 3:  {{< staticref "pdf/Lec630_finite.pdf" "newtab" >}} OLS Finite Sample Property {{< /staticref >}}
     + Lecture 4:  {{< staticref "pdf/Lec630_large.pdf" "newtab" >}} OLS Large Sample Property {{< /staticref >}}
-    + Lecture 5:  {{< staticref "pdf/Lec630_causal.pdf" "newtab" >}} OLS Causal Inference and Regression {{< /staticref >}}
+    + Lecture 5:  {{< staticref "pdf/Lec630_causal.pdf" "newtab" >}} Causal Inference and Regression {{< /staticref >}}
 
 
 
