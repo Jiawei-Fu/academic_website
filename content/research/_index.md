@@ -8,27 +8,27 @@ header:
 
 ## **Methodology**
 
-1. Jiawei Fu. "Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
-[[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\] ](https://github.com/Jiawei-Fu/mechte)
+1. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Nonparametric Identification and Estimation of Causal Effects on Latent Outcomes" (In progress)
 
-2. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."(*American Political Science Review*, accepted) [[pre-print]](https://arxiv.org/abs/2404.01566)
+2. Jiawei Fu. "Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
+[[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\]](https://github.com/Jiawei-Fu/mechte)
+
+3. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."*American Political Science Review*. 2026. [[journal]](https://doi.org/10.1017/S0003055426101580) [[pre-print]](https://arxiv.org/abs/2404.01566)
 
      ⟿[2024 Winner of the Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize)
 
-3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for
-Design and Analysis" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
+4. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
-4. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Issues in Conjoint Experiment: Attention and Salience."
-[[pre-print]](https://arxiv.org/abs/2405.06779)
+5. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "Generalization Issues in Conjoint Experiment: Attention and Salience." [[pre-print]](https://arxiv.org/abs/2405.06779)
 
-5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
+6. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "Design-Based Inference for Group Interaction Experiments." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
 
-6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
+7. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Optimal Strategy for Covariate Selection in Experiments" (In progress)
 
 
 ## **Political Economy and Health**
 
-1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "Does Affluence Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." *Comparative Political Studies*. 2025. [[journal]](https://doi.org/10.1177/00104140251342921)
+1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "Does Affluence Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." *Comparative Political Studies*. 2026. [[journal]](https://doi.org/10.1177/00104140251342921)
 {{< staticref "pdf/hotline.pdf" "newtab">}}[pre-print]{{< /staticref >}}
 
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." *Journal of Comparative Economics*. 2024. [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/Mental_Health_JCE.pdf" "newtab">}}[pre-print]{{< /staticref >}} 
