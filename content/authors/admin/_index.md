@@ -36,7 +36,7 @@ social:
   icon_pack: fab
   link: https://github.com/Jiawei-Fu
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: 'https://scholar.google.com/citations?user=9WHpa74AAAAJ&hl=en'
 superuser: yes
 bio: null
