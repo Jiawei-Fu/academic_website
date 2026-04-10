@@ -10,7 +10,7 @@ header:
 
 ### Papers That Survived
 
-1. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."*American Political Science Review*. 2026. [[journal]](https://doi.org/10.1017/S0003055426101580) [[pre-print]](https://arxiv.org/abs/2404.01566)
+1. Jiawei Fu and [Tara Slough](http://taraslough.com/). "\textbf{Heterogeneous Treatment Effects and Causal Mechanisms.}"*American Political Science Review*. 2026. [[journal]](https://doi.org/10.1017/S0003055426101580) [[pre-print]](https://arxiv.org/abs/2404.01566)
 
      ⟿[2024 Winner of the Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize)
 
@@ -30,7 +30,7 @@ header:
 6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "Covariate Adjustment in Randomized Experiments: A Unified Framework for Ex-post Bias and Precision" (In progress)
 
 
-## **Political Economy and Health**
+# **Political Economy and Health**
 
 ### Papers That Survived
 
