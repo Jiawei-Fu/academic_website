@@ -6,7 +6,7 @@ header:
   image: ''
 ---
 
-## **Methodology**
+# **Methodology**
 
 ### Papers That Survived
 
@@ -14,7 +14,7 @@ header:
 
      ⟿[2024 Winner of the Gosnell Prize for Excellence in Political Methodology](https://polmeth.org/gosnell-prize)
 
-## Papers in the Wild
+### Papers in the Wild
 
 1. Jiawei Fu. "Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis."
 [[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\]](https://github.com/Jiawei-Fu/mechte)
@@ -39,7 +39,7 @@ header:
 
 2. Jiawei Fu and [Congyi Zhou](https://sites.google.com/site/zhoucongyi/). "Political Movements and Mental Health: Evidence from the Anti-Corruption Campaign in China." *Journal of Comparative Economics*. 2024. [[journal]](https://www.sciencedirect.com/science/article/pii/S014759672400043X) {{< staticref "pdf/Mental_Health_JCE.pdf" "newtab">}}[pre-print]{{< /staticref >}} 
 
-## Papers in the Wild
+### Papers in the Wild
 
 3. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "A Formal Theory of Debate: Full Revelation." (In progress)
 
