@@ -8,7 +8,7 @@ header:
 
 ## **Methodology**
 
-## Papers That Survived
+### Papers That Survived
 
 1. Jiawei Fu and [Tara Slough](http://taraslough.com/). "Heterogeneous Treatment Effects and Causal Mechanisms."*American Political Science Review*. 2026. [[journal]](https://doi.org/10.1017/S0003055426101580) [[pre-print]](https://arxiv.org/abs/2404.01566)
 
@@ -32,7 +32,7 @@ header:
 
 ## **Political Economy and Health**
 
-## Papers That Survived
+### Papers That Survived
 
 1. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), and Haibing Yan. "Does Affluence Influence Authoritarian Responsiveness? Theory and Evidence from Urban China." *Comparative Political Studies*. 2026. [[journal]](https://doi.org/10.1177/00104140251342921)
 {{< staticref "pdf/hotline.pdf" "newtab">}}[pre-print]{{< /staticref >}}
