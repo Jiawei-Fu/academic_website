@@ -21,7 +21,7 @@ header:
 
 2. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
-3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Nonparametric Identification and Estimation of Causal Effects on Latent Outcomes**" (In progress)
+3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Nonparametric Identification and Estimation of Causal Effects on Latent Outcomes**" [[pre-print]](https://arxiv.org/abs/2604.08681)
 
 4. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "**A Formal Theory of Survey Experiment Generalizability: Attention and Salience**" [[pre-print]](https://arxiv.org/abs/2405.06779)
 
