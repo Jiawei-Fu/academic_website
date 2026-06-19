@@ -29,6 +29,8 @@ header:
 
 6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Ex-post Bias and Precision**" (In progress)
 
+7. Jiawei Fu, [Donald P. Green](https://donaldgreen.com/) and Andy Wang, "**When Does Machine Learning Reliably Detect Heterogeneous Treatment Effects? Results from Large scale of Experiments**" (In progress)
+
 
 # **Political Economy and Health**
 
