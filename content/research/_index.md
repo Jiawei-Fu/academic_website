@@ -25,7 +25,7 @@ header:
 
 4. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "**A Formal Theory of Survey Experiment Generalizability: Attention and Salience**" [[pre-print]](https://arxiv.org/abs/2405.06779)
 
-5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "**Design-Based Inference for Group Interaction Experiments**." {{< staticref "pdf/fu-samii-wang-group.pdf" "newtab">}}[slides]{{< /staticref >}}
+5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "**Design-Based Inference for Group Interaction Experiments**." [[pre-print]](https://arxiv.org/abs/2607.02385)
 
 6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Ex-post Bias and Precision**" (In progress)
 
