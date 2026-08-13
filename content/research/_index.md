@@ -45,7 +45,9 @@ header:
 
 3. Jiawei Fu, [Zeren Li](https://www.zerenli.org/), Bingyang Xie, [Chunhui Ye](http://www.spa.zju.edu.cn/spaenglish/2017/1211/c15427a730449/page.htm), [Qi Zhang](https://econ.fudan.edu.cn/info/1028/14262.htm). "**Authority Without Compliance: Evidence from a Field Conjoint Experiment in Rural China**." {{< staticref "pdf/village_authority.pdf" "newtab">}}[working paper]{{< /staticref >}} 
 
-4. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "**A Formal Theory of Debate: Full Revelation**." (In progress)
+4. [Ning He](https://hening.org/) and Jiawei Fu. "**Manipulation by Design: Performance Incentives and Adverse Selection in Bureaucracy**"{{< staticref "pdf/gdp_manipulation.pdf" "newtab">}}[pre-print]{{< /staticref >}} 
+
+5. Jiawei Fu, [Catherine Hafer](https://scholar.google.com/citations?user=Y9FcWlcAAAAJ&hl=en), and [Dimitri Landa](https://wp.nyu.edu/dimitrilanda/). "**A Formal Theory of Debate: Full Revelation**." (In progress)
 
 
 ## Software
