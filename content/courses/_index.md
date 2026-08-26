@@ -17,12 +17,12 @@ To save time, please schedule meetings through the appointment [link](https://ou
 2. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/regression/Spring2026/Lec630_intro.pdf" "newtab" >}} Roadmap and Population Models {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/regression/Spring2026/Lec630_estimation.pdf" "newtab" >}} OLS Estimation {{< /staticref >}}
-    + Lecture 3:  {{< staticref "pdf/regression/Spring2026Lec630_finite.pdf" "newtab" >}} OLS Finite Sample Property {{< /staticref >}}
-    + Lecture 4:  {{< staticref "pdf/regression/Spring2026Lec630_large.pdf" "newtab" >}} OLS Large Sample Property {{< /staticref >}}
-    + Lecture 5:  {{< staticref "pdf/regression/Spring2026Lec630_causal.pdf" "newtab" >}} Causal Inference and Regression {{< /staticref >}}
-    + Lecture 6:  {{< staticref "pdf/regression/Spring2026Lec630_cluster.pdf" "newtab" >}} Cluster Structure {{< /staticref >}}
-    + Lecture 7:  {{< staticref "pdf/regression/Spring2026Lec630_IV.pdf" "newtab" >}} Instrumental Variables {{< /staticref >}}
-    + Lecture 8:  {{< staticref "pdf/regression/Spring2026Lec630_panel.pdf" "newtab" >}} Panel Data {{< /staticref >}}
+    + Lecture 3:  {{< staticref "pdf/regression/Spring2026/Lec630_finite.pdf" "newtab" >}} OLS Finite Sample Property {{< /staticref >}}
+    + Lecture 4:  {{< staticref "pdf/regression/Spring2026/Lec630_large.pdf" "newtab" >}} OLS Large Sample Property {{< /staticref >}}
+    + Lecture 5:  {{< staticref "pdf/regression/Spring2026/Lec630_causal.pdf" "newtab" >}} Causal Inference and Regression {{< /staticref >}}
+    + Lecture 6:  {{< staticref "pdf/regression/Spring2026/Lec630_cluster.pdf" "newtab" >}} Cluster Structure {{< /staticref >}}
+    + Lecture 7:  {{< staticref "pdf/regression/Spring2026/Lec630_IV.pdf" "newtab" >}} Instrumental Variables {{< /staticref >}}
+    + Lecture 8:  {{< staticref "pdf/regression/Spring2026/Lec630_panel.pdf" "newtab" >}} Panel Data {{< /staticref >}}
 
 
 3. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Fall2025/Duke_computation.pdf" "newtab" >}} [updated syllabus] {{< /staticref >}}
