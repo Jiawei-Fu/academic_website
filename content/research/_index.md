@@ -27,9 +27,9 @@ header:
 
 5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "**Inference for Group Interaction Experiments**." [[pre-print]](https://arxiv.org/abs/2607.02385)
 
-6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Ex-post Bias and Precision**" (In progress)
+6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Imbalance and Prognosticity**" {{< staticref "pdf/covariate.pdf" "newtab">}}[pdf]{{< /staticref >}}
 
-7. Jiawei Fu, [Donald P. Green](https://donaldgreen.com/) and Andy Wang, "**When Does Machine Learning Reliably Detect Heterogeneous Treatment Effects? Results from Large scale of Experiments**" (In progress)
+7. Jiawei Fu, [Donald P. Green](https://donaldgreen.com/) and Andy Wang, "**Heterogeneous Treatment Effects with Machine Learning: Power, Design, and Evidence from Experiments**" (In progress)
 
 
 # **Political Economy and Health**
