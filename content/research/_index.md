@@ -16,18 +16,18 @@ header:
 
 ### Papers in the Wild
 
-1. Jiawei Fu. "**Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis**."
+1. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Decision and Practice**" {{< staticref "pdf/covariate.pdf" "newtab">}}[pdf]{{< /staticref >}}
+
+2. Jiawei Fu. "**Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis**."
 [[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\]](https://github.com/Jiawei-Fu/mechte)
 
-2. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
+3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**" [[pre-print]](https://arxiv.org/abs/2505.21909) [\[R package\]](https://github.com/Jiawei-Fu/LatentOutcomes)
 
-3. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Nonparametric Identification and Estimation of Causal Effects on Latent Outcomes**" [[pre-print]](https://arxiv.org/abs/2604.08681)
+4. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Nonparametric Identification and Estimation of Causal Effects on Latent Outcomes**" [[pre-print]](https://arxiv.org/abs/2604.08681)
 
-4. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "**A Formal Theory of Survey Experiment Generalizability: Attention and Salience**" [[pre-print]](https://arxiv.org/abs/2405.06779)
+5. Jiawei Fu and [Xiaojun Li](https://sites.google.com/view/xiaojunli/). "**A Formal Theory of Survey Experiment Generalizability: Attention and Salience**" [[pre-print]](https://arxiv.org/abs/2405.06779)
 
-5. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "**Inference for Group Interaction Experiments**." [[pre-print]](https://arxiv.org/abs/2607.02385)
-
-6. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Imbalance and Prognosticity**" {{< staticref "pdf/covariate.pdf" "newtab">}}[pdf]{{< /staticref >}}
+6. Jiawei Fu, [Cyrus Samii](https://cyrussamii.com/), and [Ye Wang](https://www.yewang-polisci.com/). "**Inference for Group Interaction Experiments**." [[pre-print]](https://arxiv.org/abs/2607.02385)
 
 7. Jiawei Fu, [Donald P. Green](https://donaldgreen.com/) and Andy Wang, "**Heterogeneous Treatment Effects with Machine Learning: Power, Design, and Evidence from Experiments**" (In progress)
 
