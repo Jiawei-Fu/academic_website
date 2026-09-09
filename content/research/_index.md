@@ -16,7 +16,7 @@ header:
 
 ### Papers in the Wild
 
-1. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Decision and Practice**" {{< staticref "pdf/covariate.pdf" "newtab">}}[pdf]{{< /staticref >}}
+1. Jiawei Fu and [Donald P. Green](https://donaldgreen.com/), "**Covariate Adjustment in Randomized Experiments: A Unified Framework for Decision and Practice**" [[pre-print]](https://arxiv.org/abs/2609.09039)
 
 2. Jiawei Fu. "**Extracting Mechanisms from Heterogeneous Effects: Identification Strategy for Mediation Analysis**."
 [[pre-print]](https://arxiv.org/abs/2403.04131) [\[R package\]](https://github.com/Jiawei-Fu/mechte)
