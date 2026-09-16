@@ -12,6 +12,9 @@ To save time, please schedule meetings through the appointment [link](https://ou
 
 1. Fall 2026: Computational Methods and Causal Analysis. {{< staticref "pdf/computation/Fall2026/syllabus_2026fall.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
       + Lecture 1:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec1.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
+      + Lecture 2:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec2.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
+      + Lecture 3:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec3.pdf" "newtab" >}} Tree-based Methods and Boosting {{< /staticref >}}
+      + Lecture 4:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec4.pdf" "newtab" >}} Nonparametric Regression {{< /staticref >}}
       
       
 2. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
