@@ -15,6 +15,8 @@ To save time, please schedule meetings through the appointment [link](https://ou
       + Lecture 2:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec2.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
       + Lecture 3:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec3.pdf" "newtab" >}} Tree-based Methods and Boosting {{< /staticref >}}
       + Lecture 4:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec4.pdf" "newtab" >}} Nonparametric Regression {{< /staticref >}}
+      + Lecture 5:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec5.pdf" "newtab" >}} Causal Inference {{< /staticref >}}
+      
       
       
 2. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
