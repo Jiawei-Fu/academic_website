@@ -10,7 +10,6 @@ header:
 
 To save time, please schedule meetings through the appointment [link](https://outlook.office.com/bookwithme/user/ea2f5f25634a4a5e87795b147d6d3513@duke.edu?anonymous&ismsaljsauthenabled&ep=plink). Multiple slots are available throughout the week and will be updated regularly. If none of the available times work for you, please send me an email and we will find an alternative time. My office is located at 294A Gross Hall.
 
-
 1. Spring 2027: Logic of Domestic Politics {{< staticref "pdf/syllabus_logic "newtab" >}} [syllabus] {{< /staticref >}}
 
 2. Fall 2026: Computational Methods and Causal Analysis. {{< staticref "pdf/computation/Fall2026/syllabus_2026fall.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
