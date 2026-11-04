@@ -11,9 +11,9 @@ header:
 To save time, please schedule meetings through the appointment [link](https://outlook.office.com/bookwithme/user/ea2f5f25634a4a5e87795b147d6d3513@duke.edu?anonymous&ismsaljsauthenabled&ep=plink). Multiple slots are available throughout the week and will be updated regularly. If none of the available times work for you, please send me an email and we will find an alternative time. My office is located at 294A Gross Hall.
 
 
-0. Spring 2027: Logic of Domestic Politics {{< staticref "pdf/syllabus_logic "newtab" >}} [syllabus] {{< /staticref >}}
+1. Spring 2027: Logic of Domestic Politics {{< staticref "pdf/syllabus_logic "newtab" >}} [syllabus] {{< /staticref >}}
 
-1. Fall 2026: Computational Methods and Causal Analysis. {{< staticref "pdf/computation/Fall2026/syllabus_2026fall.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
+2. Fall 2026: Computational Methods and Causal Analysis. {{< staticref "pdf/computation/Fall2026/syllabus_2026fall.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
       + Lecture 1:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec1.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
       + Lecture 2:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec2.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
       + Lecture 3:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec3.pdf" "newtab" >}} Tree-based Methods and Boosting {{< /staticref >}}
@@ -22,7 +22,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
       
       
       
-2. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
+3. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/regression/Spring2026/Lec630_intro.pdf" "newtab" >}} Roadmap and Population Models {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/regression/Spring2026/Lec630_estimation.pdf" "newtab" >}} OLS Estimation {{< /staticref >}}
     + Lecture 3:  {{< staticref "pdf/regression/Spring2026/Lec630_finite.pdf" "newtab" >}} OLS Finite Sample Property {{< /staticref >}}
@@ -33,7 +33,7 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 8:  {{< staticref "pdf/regression/Spring2026/Lec630_panel.pdf" "newtab" >}} Panel Data {{< /staticref >}}
 
 
-3. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Fall2025/Duke_computation.pdf" "newtab" >}} [updated syllabus] {{< /staticref >}}
+4. Fall 2025: Computational Methods in Social Science. {{< staticref "pdf/Fall2025/Duke_computation.pdf" "newtab" >}} [updated syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/computation/Fall2025/Lec_intro.pdf" "newtab" >}} Introduction and Logistics {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/computation/Fall2025/Lec_linear.pdf" "newtab" >}} Linear Methods and Regularization {{< /staticref >}}
     + Lecture 3:  {{< staticref "pdf/computation/Fall2025/Lec_inference.pdf" "newtab" >}} Post-Selection Inference {{< /staticref >}}
