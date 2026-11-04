@@ -20,7 +20,6 @@ To save time, please schedule meetings through the appointment [link](https://ou
       + Lecture 5:  {{< staticref "pdf/computation/Fall2026/Duke_CSS_Fall2026_Lec5.pdf" "newtab" >}} Causal Inference {{< /staticref >}}
       
       
-      
 3. Spring 2026: Introduction to Regression Methods. {{< staticref "pdf/regression/Spring2026/Duke_regression.pdf" "newtab" >}} [syllabus] {{< /staticref >}}
     + Lecture 1:  {{< staticref "pdf/regression/Spring2026/Lec630_intro.pdf" "newtab" >}} Roadmap and Population Models {{< /staticref >}}
     + Lecture 2:  {{< staticref "pdf/regression/Spring2026/Lec630_estimation.pdf" "newtab" >}} OLS Estimation {{< /staticref >}}
@@ -48,7 +47,6 @@ To save time, please schedule meetings through the appointment [link](https://ou
     + Lecture 13:  {{< staticref "pdf/computation/Fall2025/Lec_network1.pdf" "newtab" >}} Network Analysis I: Statistical Perspectives {{< /staticref >}}
     + Lecture 14:  {{< staticref "pdf/computation/Fall2025/Interference_Duke2025Nov.pdf" "newtab" >}} Causal Inference under Interference (Guest Speaker: Ye Wang from UNC) {{< /staticref >}}
     + Lecture 15:  {{< staticref "pdf/computation/Fall2025/Lec_network2.pdf" "newtab" >}} Network Analysis II: Strategic Perspectives {{< /staticref >}}
-
 
 
 ## **New York University**
